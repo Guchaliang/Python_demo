@@ -8,3 +8,4 @@
 属性以及方法设置需要合理
 
 最后是链接
+https://github.com/Guchaliang/Python_demo/blob/main/demo.py
